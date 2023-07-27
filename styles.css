@@ -1,0 +1,74 @@
+body{
+	overflow-x: hidden ;
+}
+/*.nav-wrapper
+{
+	background-color: black;
+	
+}*/
+.tap-target .tap-target-content a
+{
+	color:white;
+}
+.tap-target .tap-target-content a:hover
+{
+	color:#f06292;
+}
+#body{
+	margin-top: -50px;
+	/* background-image: url('images/1.jpg'); */
+	background-image: url("https://images.unsplash.com/photo-1555532538-dcdbd01d373d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=964&q=80");
+
+	 background-size: cover;
+	 color:white;
+	 font-family: 'Dancing Script', cursive;
+}/*
+#body h4
+{
+	animation: role 5s linear;
+	overflow:hidden;
+	white-space:nowrap;
+	animation-delay:1s;
+	animation-iteration-count: infinite;
+}
+@keyframes role
+{
+	0%{
+		width:0ch;
+	}
+	100%{
+		width:32ch;
+	}
+}*/
+#whoami p
+{
+	font-size:22px;
+line-height: 2.0;
+}
+#skills .skills .btn{
+border-radius: 10px;
+margin:10px;
+}
+#projects .projects h6{
+	line-height: 1.5;
+}
+ 
+#education .collapsible .active .collapsible-header
+{
+	color:#283593 ;
+}
+
+.tap-target-wrapper.open .tap-target-wave::before {
+    transform: scale(0) !important;
+}
+#contact h4 a{
+	color:white;
+}
+#contact h4 a:hover{
+	color:#f06292;
+}
+.carousel{
+    height: 500px; 
+    width: 350px;
+    height: 20pt;
+}
